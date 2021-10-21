@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @starget24
+- 👀 I’m interested in linux, servers, window managers,etc
+- 🌱 I’m currently learning digital animation, and some basic programming languages(haskell, god please help!!)
+- 💞️ I’m looking to collaborate on FOSS projects
+- 📫 How to reach me kazarts247@tutanota.com
+
+<!---
+starget24/starget24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

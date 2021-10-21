@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starget24
 - 👀 I’m interested in linux, servers, window managers,etc
-- 🌱 I’m currently learning digital animation, and some basic programming languages(haskell, god please help!!)
+- 🌱 I’m currently learning digital animation, and also learning some haskell(kill me pls)
 - 💞️ I’m looking to collaborate on FOSS projects
 - 📫 How to reach me: Just ping me :)
 <!---
